@@ -5,9 +5,16 @@ class PasswordGenerator  // একটি ক্লাস 'PasswordGenerator' ত
     static void Main()  // 'Main' মেথড যেখানে প্রোগ্রামটি শুরু হবে।
     {
         Console.WriteLine("Enter the desired password length:");  // ব্যবহারকারীকে পাসওয়ার্ডের দৈর্ঘ্য ইনপুট দেওয়ার জন্য বলা হচ্ছে।
-        int length = int.Parse(Console.ReadLine());  // ব্যবহারকারীর ইনপুট নেওয়া হচ্ছে এবং তা ইন্টিজার (পূর্ণসংখ্যা) হিসেবে পার্স করা হচ্ছে।
+        
+        string? input = Console.ReadLine();  // ব্যবহারকারীর ইনপুট নেওয়া হচ্ছে
+        
+        if (!int.TryParse(input, out int length) || length <= 0)  // ইনপুট ভ্যালিড কিনা চেক করা হচ্ছে।
+        {
+            Console.WriteLine("Invalid input! Please enter a valid positive number.");
+            return;
+        }
 
-        string password = GeneratePassword(length);  // 'GeneratePassword' মেথড কল করে পাসওয়ার্ড তৈরি করা হচ্ছে এবং তা 'password' ভ্যারিয়েবলে সংরক্ষিত হচ্ছে।
+        string password = GeneratePassword(length);  // 'GeneratePassword' মেথড কল করে পাসওয়ার্ড তৈরি করা হচ্ছে।
         Console.WriteLine("Generated Password: " + password);  // তৈরি করা পাসওয়ার্ডটি কনসোলে দেখানো হচ্ছে।
 
         Console.WriteLine("Press Enter to exit...");  // প্রোগ্রামটি শেষ হওয়ার পর ব্যবহারকারীকে 'Enter' কী চাপার জন্য বলা হচ্ছে।

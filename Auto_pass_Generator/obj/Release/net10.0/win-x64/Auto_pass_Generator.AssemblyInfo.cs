@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auto_pass_Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69929db99e27571043fca031ff212d6c44a9d8bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auto_pass_Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auto_pass_Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
