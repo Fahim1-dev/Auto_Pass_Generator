@@ -1,0 +1,14 @@
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\bin\Debug\net10.0\Auto_pass_Generator.exe
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\bin\Debug\net10.0\Auto_pass_Generator.deps.json
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\bin\Debug\net10.0\Auto_pass_Generator.runtimeconfig.json
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\bin\Debug\net10.0\Auto_pass_Generator.dll
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\bin\Debug\net10.0\Auto_pass_Generator.pdb
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.AssemblyInfo.cs
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.dll
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\refint\Auto_pass_Generator.dll
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.pdb
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\Auto_pass_Generator.genruntimeconfig.cache
+c:\Users\user\Desktop\Fahim Practice\Password Genrator\Auto_pass_Generator\obj\Debug\net10.0\ref\Auto_pass_Generator.dll
