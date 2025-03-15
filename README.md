@@ -11,7 +11,7 @@ Features
 How to Use
 Download the .exe file from here and enjoy :
 
-https://drive.google.com/file/d/1RVJA-_nwUZSRBhgVQdoeNWJtkWS7AAqJ/view?usp=drive_link
+https://drive.google.com/drive/folders/1L0OYsiFCDL0EmfgNWwiO762LDIBVeHhd?usp=drive_link
 
 Screenshots:
 
